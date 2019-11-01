@@ -1,6 +1,7 @@
 ## Author: Luke Schlessinger, 10/31/19
 ## Source: Automate The Boring Stuff by Al Sweigart
-## Edits:
+## Edits: 10/31/19: Resolved bug where turns were not alternating between players correctly.
+##                  edited the if statements indents for Player 2 logic.
 
 #import os for clear function, import range for choose_first function
 import os
